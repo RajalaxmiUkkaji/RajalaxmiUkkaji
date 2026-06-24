@@ -18,7 +18,7 @@ I enjoy building web applications, solving real-world problems, and continuously
 - ⚛️ Exploring React.js and Modern Frontend Development
 - ☕ Building Backend Applications with Spring Boot
 - 🗄️ Strengthening Database Skills using MySQL
-- 🚀 Improving Problem Solving & DSA Skills
+- 🚀 Improving Problem Solving Skills
 - 💼 Preparing for Software Development Roles
 
 ---
@@ -69,16 +69,16 @@ I enjoy building web applications, solving real-world problems, and continuously
 
 🎯 Smart Campus Placement System
 
-- Automated student registration and placement processes.
-- Implemented role-based access for Students, Recruiters, and Admins.
-- Developed eligibility-based student shortlisting and job matching.
-- Achieved 95% accuracy in placement recommendations.
+- Automated student registration and placement processes
+- Role-based access for Students, Recruiters, and Admins
+- Eligibility-based student shortlisting
+- 95% accuracy in placement recommendations
 
 🌿 Leaf Classification for Sustainable Agriculture
 
-- Developed a Deep Learning model using TensorFlow, Keras, OpenCV, and NASNetMobile.
-- Applied Transfer Learning techniques.
-- Achieved 98% prediction accuracy.
+- Built using Python, TensorFlow, Keras, and OpenCV
+- Implemented Transfer Learning using NASNetMobile
+- Achieved 98% prediction accuracy
 
 ---
 
@@ -88,9 +88,9 @@ Data Science & Artificial Intelligence Intern
 
 YBI Foundation | May 2024 – June 2024
 
-- Worked on Machine Learning and AI projects.
-- Gained practical experience in Python and Data Analysis.
-- Applied Data Science concepts to real-world datasets.
+- Worked on Machine Learning and AI projects
+- Gained hands-on experience in Python and Data Analysis
+- Applied Data Science concepts to real-world datasets
 
 ---
 
@@ -110,9 +110,7 @@ YBI Foundation | May 2024 – June 2024
 🤝 Let's Connect
 
 ""Gmail" (https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)" (mailto:ukkajirajalaxmi@gmail.com)
-
 ""LinkedIn" (https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/rajalaxmi-ukkaji-0b728631)
-
 ""GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)" (https://github.com/RajalaxmiUkkaji)
 
 ---
