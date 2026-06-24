@@ -8,7 +8,7 @@ Hi 👋, I'm Rajalaxmi Ukkaji
 
 I'm a passionate Computer Science Engineering student specializing in Data Science at Siddhartha Institute of Engineering and Technology.
 
-I enjoy building web applications, exploring data-driven solutions, and continuously learning modern technologies. My goal is to leverage technology to solve real-world challenges and create meaningful impact through innovative software solutions.
+I enjoy building web applications, solving real-world problems, and continuously learning new technologies. My goal is to create impactful software solutions that make a difference.
 
 ---
 
@@ -36,32 +36,32 @@ I enjoy building web applications, exploring data-driven solutions, and continuo
 
 💻 Programming Languages
 
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-"C" (https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+"Java" (https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+"C" (https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+"Python" (https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 🎨 Frontend
 
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-"React" (https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+"React" (https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ⚙️ Backend
 
-"Spring Boot" (https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-"Maven" (https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+"Spring Boot" (https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+"Maven" (https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
 🗄️ Database
 
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 🛠️ Tools
 
-"Git" (https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-"Eclipse" (https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
+"Git" (https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+"Eclipse" (https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
 
 ---
 
@@ -76,8 +76,7 @@ I enjoy building web applications, exploring data-driven solutions, and continuo
 
 🌿 Leaf Classification for Sustainable Agriculture
 
-- Developed a Deep Learning model for leaf classification.
-- Utilized TensorFlow, Keras, OpenCV, and NASNetMobile.
+- Developed a Deep Learning model using TensorFlow, Keras, OpenCV, and NASNetMobile.
 - Applied Transfer Learning techniques.
 - Achieved 98% prediction accuracy.
 
@@ -92,7 +91,6 @@ YBI Foundation | May 2024 – June 2024
 - Worked on Machine Learning and AI projects.
 - Gained practical experience in Python and Data Analysis.
 - Applied Data Science concepts to real-world datasets.
-- Enhanced analytical and problem-solving skills.
 
 ---
 
@@ -109,19 +107,13 @@ YBI Foundation | May 2024 – June 2024
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajalaxmiUkkaji&theme=tokyonight"/>
 </p>---
 
-🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>---
-
 🤝 Let's Connect
 
-📧 Email: ukkajirajalaxmi@gmail.com
+""Gmail" (https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)" (mailto:ukkajirajalaxmi@gmail.com)
 
-💼 LinkedIn: https://www.linkedin.com/in/rajalaxmi-ukkaji-0b728631
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/rajalaxmi-ukkaji-0b728631)
 
-💻 GitHub: https://github.com/RajalaxmiUkkaji
+""GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)" (https://github.com/RajalaxmiUkkaji)
 
 ---
 
